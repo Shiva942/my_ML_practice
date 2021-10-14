@@ -30,6 +30,7 @@ print (x+y) #Addition
 print (x-y) #Substraction
 print (x*y) #Multiplication
 
+print(x)
 
 # In[19]:
 
