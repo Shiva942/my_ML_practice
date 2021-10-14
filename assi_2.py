@@ -8,7 +8,7 @@
 
 import numpy as np
 
-
+print('Test')
 # This repo contains an introduction to [Jupyter](https://jupyter.org) and [IPython](https://ipython.org).
 # 
 # Outline of some basics:
