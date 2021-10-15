@@ -17,8 +17,7 @@ def fib(n):
         return fib(n-1)+fib(n-2)
 for i in range (1,var+1):
     print (fib(i))
-
-print('Hello')
+    
 # This repo contains an introduction to [Jupyter](https://jupyter.org) and [IPython](https://ipython.org).
 # 
 # Outline of some basics:
