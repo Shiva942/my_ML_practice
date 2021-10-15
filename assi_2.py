@@ -35,7 +35,7 @@ print (x*y) #Multiplication
 
 print (x/y) #Division with float as output
 print (x//y) #Division with integer as output
-
+print(x%y)
 
 # In[20]:
 
